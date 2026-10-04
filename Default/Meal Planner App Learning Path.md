@@ -42,21 +42,21 @@ created: 2026-10-04
 
 **Tasks**
 
-- [ ] Read Pro Git chapters 1-3
+- [x] Read Pro Git chapters 1-3
 
-- [ ] Complete one GitHub Skills course
+- [x] Complete one GitHub Skills course
 
-- [ ] Create the project repo on GitHub
+- [x] Create the project repo on GitHub
 
-- [ ] Commit in small steps with meaningful messages
+- [x] Commit in small steps with meaningful messages
 
-- [ ] Create a branch, open a pull request against my own repo, merge it
+- [x] Create a branch, open a pull request against my own repo, merge it
 
   
 
 **Done when**
 
-- [ ] I can branch, open a PR and merge without looking anything up
+- [x] I can branch, open a PR and merge without looking anything up
 
   
 
